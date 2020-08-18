@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission4Java</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Tayangan TV</string>
+    <string name="inspect">inspect</string>
+    <string name="title_movie">Judul Film</string>
+    <string name="description">Diskripsi</string>
+    <string name="readmore">lanjutkan</string>
+    <string name="photo">foto</string>
+    <string name="string_language">Bahasa</string>
+    <string name="title_discover">home</string>
+    <string name="title_favorite">Favorit</string>
+    <string name="title_setting">Pengaturan</string>
+
+    <string name="submit">Simpan</string>
+    <string name="title">judul</string>
+    <string name="delete">hapus</string>
+    <string name="tab_text_3">Favorit</string>
+    <string name="desc_ic_heart">hati</string>
+    <string name="date">Tanggal</string>
+
+    <string name="add"> \n Sukses ditambahkan ke Favorit</string>
+    <string name="added">\n Sudah Ada</string>
+    <string name="data">Tidak Ditemukan</string>
+    <string name="datafav">Kosong</string>
+    <string name="deleteitem">
+Hapus Sukses</string>
+    <string name="dialogy">YA</string>
+    <string name="dialogn">TIDAK</string>
+    <string name="favorite">Favorite</string>
+    <string name="score">score</string>
+    <string name="empty">Film Tidak Ada</string>
+    <string name="emptytv">Tayangan TV tidak ditemukan</string>
+    <string name="notifadd">Apakah Anda Yakin untuk menambahkan ke Favorit?</string>
+    <string name="yes">YA</string>
+    <string name="cancel">TIDAK</string>
+    <string name="rating">nilai</string>
+    <string name = "failed">Gagal Menambahkan</string>
+    <string name="reminder_daily">Daily Notification</string>
+    <string name="reminder_daily_desc">You will get a notification to view the contents of Movie Catalogue App at 07.00 A.M everyday</string>
+    <string name="reminder_release">Release Today Notification</string>
+    <string name="reminder_release_desc">You will get a notification of Today Released Movie every 08.00 A.M everyday</string>
+    <string name="daily_message">Check the collection of Movie Catalogue now</string>
+</resources>

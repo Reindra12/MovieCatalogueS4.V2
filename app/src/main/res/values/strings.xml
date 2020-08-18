@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Submission4Java</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">Tv Show</string>
+    <string name="inspect">inspect</string>
+    <string name="title_movie">Movie Catalogue</string>
+    <string name="description">Overview</string>
+    <string name="readmore">readmore</string>
+    <string name="photo">photo</string>
+    <string name="string_language">Language</string>
+    <string name="title_discover">home</string>
+    <string name="title_favorite">favorite</string>
+    <string name="title_setting">setting</string>
+
+    <string name="submit">save</string>
+    <string name="title">title</string>
+    <string name="delete">delete</string>
+    <string name="tab_text_3">Favorite</string>
+    <string name="desc_ic_heart">heart</string>
+    <string name="date">Date</string>
+
+    <string name="add"> \n has been added to Favorites</string>
+    <string name="added">\n already in favorites</string>
+    <string name="data">Not Found</string>
+    <string name="datafav">Empty</string>
+    <string name="deleteitem">
+Deleted Successed</string>
+    <string name="dialogy">YES</string>
+    <string name="dialogn">NO</string>
+    <string name="favorite">favorite</string>
+    <string name="score">score</string>
+    <string name="empty">movie does not exist</string>
+    <string name="emptytv">TV Show does not exist</string>
+    <string name="notifadd">Are you sure to add to your favorite movie?</string>
+    <string name="yes">YES</string>
+    <string name="cancel">CANCEL</string>
+    <string name="rating">rating</string>
+    <string name="failed">failed to add</string>
+    <string name="reminder_daily">Daily Notification</string>
+    <string name="reminder_daily_desc">You will get a notification to view the contents of Movie Catalogue App at 07.00 A.M everyday</string>
+    <string name="reminder_release">Release Today Notification</string>
+    <string name="reminder_release_desc">You will get a notification of Today Released Movie every 08.00 A.M everyday</string>
+    <string name="daily_message">Check the collection of Movie Catalogue now</string>
+</resources>
